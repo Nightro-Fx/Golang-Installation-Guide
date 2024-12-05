@@ -37,7 +37,7 @@ export GOROOT=/usr/local/go
 export GOPATH=$HOME/go
 export PATH=$PATH:$GOROOT/bin:$GOPATH/bin
 ```
-###### Reloading your shell config
+###### Run this in the terminal to reload your shell config
 ```bash
 source ~/.bashrc
 ```
